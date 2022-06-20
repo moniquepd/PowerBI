@@ -1,6 +1,6 @@
 # Dashboard Visão RG
 
-  Para visualização completa do relatório acesso o link [PowerBI Pages](https://app.powerbi.com/view?r=eyJrIjoiYzAxMDM0NTctMmUwNS00OGIxLTliYzYtZGNhYmQ3NmNlMzZkIiwidCI6ImNmNjk1NWZhLWYwZmEtNDVjYy1iZTEzLTE3ODQ2YTE4ZDViNiJ9)
+  Para visualização completa do relatório acesso o link [PowerBI Pages](https://app.powerbi.com/view?r=eyJrIjoiYzAxMDM0NTctMmUwNS00OGIxLTliYzYtZGNhYmQ3NmNlMzZkIiwidCI6ImNmNjk1NWZhLWYwZmEtNDVjYy1iZTEzLTE3ODQ2YTE4ZDViNiJ9&pageName=ReportSection)
 
 Dashboard criado com a base de dados fornecida no curso da Hashtag treinamentos. Para essa base, foram criadas duas análises: Perfil dos funcionários e Financeiro.
 Foi importada e tratada a tabela 'Base Funcionários'.
