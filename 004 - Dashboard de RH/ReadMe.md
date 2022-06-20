@@ -1,4 +1,4 @@
-# Dashboard Visão RG
+# Dashboard Visão RH
 
   Para visualização completa do relatório acesso o link [PowerBI Pages](https://app.powerbi.com/view?r=eyJrIjoiYzAxMDM0NTctMmUwNS00OGIxLTliYzYtZGNhYmQ3NmNlMzZkIiwidCI6ImNmNjk1NWZhLWYwZmEtNDVjYy1iZTEzLTE3ODQ2YTE4ZDViNiJ9&pageName=ReportSection)
 
@@ -7,9 +7,9 @@ Foi importada e tratada a tabela 'Base Funcionários'.
   > :pushpin: Os arquivos de exemplo foram disponibilizados no diretório do Git.
  
  Foram criadas as colunas:</br>
-- Cidade, UF, Idade, Faixa Etária, Valor hora
+- Cidade, UF, Idade, Faixa Etária, Valor hora </br>
 
-  Foram criadas as Medidas:</br>
+Foram criadas as Medidas:</br>
 - Demissões
 - Folha de Pagamento
 - Média Salarial
